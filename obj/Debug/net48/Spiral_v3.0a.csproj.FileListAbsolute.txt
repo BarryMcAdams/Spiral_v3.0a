@@ -1,0 +1,9 @@
+C:\Users\barrya\source\repos\Spiral_v3.0a\bin\Debug\net48\Spiral_v3.0a.dll
+C:\Users\barrya\source\repos\Spiral_v3.0a\bin\Debug\net48\Spiral_v3.0a.pdb
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.csproj.AssemblyReference.cache
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.AssemblyInfoInputs.cache
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.AssemblyInfo.cs
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.csproj.CoreCompileInputs.cache
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.dll
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.pdb
