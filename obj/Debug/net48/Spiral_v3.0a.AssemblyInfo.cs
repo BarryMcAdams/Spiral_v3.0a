@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spiral_v3.0a")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c734c97fe6ec91c15be508d462dc23500ae57108")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abbbc32129be3c5a4ec79668f6b77074e87d460b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spiral_v3.0a")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spiral_v3.0a")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

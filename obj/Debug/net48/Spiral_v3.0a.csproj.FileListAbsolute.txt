@@ -5,5 +5,6 @@ C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.Generated
 C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.AssemblyInfoInputs.cache
 C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.AssemblyInfo.cs
 C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.csproj.CoreCompileInputs.cache
+C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.sourcelink.json
 C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.dll
 C:\Users\barrya\source\repos\Spiral_v3.0a\obj\Debug\net48\Spiral_v3.0a.pdb
