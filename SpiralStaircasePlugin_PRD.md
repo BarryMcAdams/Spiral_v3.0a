@@ -65,7 +65,7 @@ The Spiral Staircase Plugin for AutoCAD automates the creation and validation of
 3. Example models demonstrate various use cases
 
 ## Constraints
-- Must work with AutoCAD 2024 and newer versions
+- Must work with AutoCAD 2024 and older versions
 - Performance impact <10% during use
 - File size <50MB for single projects
 
